@@ -122,7 +122,7 @@ var getMeMovie = function(movieName) {
 }
 
 var doWhatItSays = function() {
-  fs.readFile("random.txt", "utf8", function(error, data) {
+  fs.readFile("log.txt", "utf8", function(error, data) {
     console.log(data);
     writeToLog(data);
     var dataArr = data.split(',')
