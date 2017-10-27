@@ -2,7 +2,7 @@
   "name": "package.json",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kiddmit3/liri-node-app#readme",
   "dependencies": {
-    "node-spotify-api": "^1.0.6"
+    "node-spotify-api": "^1.0.6",
+    "twitter": "^1.7.1"
   }
 }
