@@ -1,5 +1,5 @@
 # Liri
-
+<p align="center"><img src="./example.PNG" /></p>
 ## Overview
 
 Sort of like Apple's Siri except using command lines. Built using Node.js and a few APIs:
@@ -24,4 +24,4 @@ Sort of like Apple's Siri except using command lines. Built using Node.js and a 
 
 `do-what-it-says`: look up a movie or a song randomly chosen from a built-in list
 
-<p align="center"><img src="./example.png" /></p>
+
