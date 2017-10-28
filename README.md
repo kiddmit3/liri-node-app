@@ -1,6 +1,5 @@
 # Liri
 <p align="center"><img src="./example.PNG" /></p>
-## Overview
 
 Sort of like Apple's Siri except using command lines. Built using Node.js and a few APIs:
 + Spotify
