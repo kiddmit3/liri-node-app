@@ -23,3 +23,5 @@ Sort of like Apple's Siri except using command lines. Built using Node.js and a 
 `movie-this`: look up a movie by title on IMDB
 
 `do-what-it-says`: look up a movie or a song randomly chosen from a built-in list
+
+<p align="center"><img src="./example.png" /></p>
